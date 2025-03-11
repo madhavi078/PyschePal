@@ -1,0 +1,36 @@
+Make a good resume
+
+--------------
+
+Python projects 
+-->Automation
+-->Web Scraping
+-->Django
+
+OOPS concept
+
+---------------
+GRE prep
+IELTS
+
+----------------
+
+learn a technology
+Internship
+
+---------------
+
+Apply for passport
+apply for voter id
+apply for license
+
+ ---------------
+
+
+--> Make a list of all IITs, NITs, IIITs which can be join using Gate DA paper (Along with required score).
+--> Gather details about PGEE exam from all the TOP IIITs
+
+
+I have completed the community support and created a new folder and kept the code in template folder.
+in template folder i changed old layout as old_layout and wrote new layout with community support connect.
+but community support page cannot be found.
